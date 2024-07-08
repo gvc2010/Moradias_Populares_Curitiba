@@ -1,0 +1,12 @@
+Fiz do zero novamente o projeto pois estava com dificuldade para treinar a maquina com a atividade realizada neste dataset que foi entregue na atp 1, fiz algumas modificações para melhorar a funcionalidade.
+
+A pasta atp_2_definitive contém:
+
+- Arquivo com extensão jupyter(ipynb)
+- Arquivo com extensão Python (py)
+- Informações do Aluno (TXT)
+- Código Fonte (TXT)
+- Arquivo de Leitura para informações (TXT)
+- Projeto impresso em PDF (PDF)
+- Arquivo jupyter ATP1(primeira etapa) (ipynb)
+- Arquivo da base de dados (XLSX)
